@@ -9,3 +9,5 @@ Mini data‑analysis project using Python, SQLite & Excel.
 ## Key Insights
 - Technology in West had the highest sales.
 - Office Supplies top 5 orders highlighted.
+
+![PivotChart Screenshot](sales_screenshot.png)
