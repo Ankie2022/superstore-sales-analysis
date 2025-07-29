@@ -1,0 +1,51 @@
+Order ID,Category,Region,Sales,Profit,Quantity
+CA-1000,Technology,West,376.19,73.7,5
+CA-1001,Furniture,East,274.45,120.12,4
+CA-1002,Technology,West,297.51,56.09,2
+CA-1003,Technology,East,482.98,-26.09,6
+CA-1004,Furniture,West,307.45,-73.63,6
+CA-1005,Furniture,South,145.24,14.13,1
+CA-1006,Technology,South,155.17,-45.39,9
+CA-1007,Office Supplies,Central,90.98,4.13,6
+CA-1008,Technology,South,17.66,120.82,3
+CA-1009,Technology,Central,217.47,-18.91,4
+CA-1010,Technology,South,203.49,-69.48,4
+CA-1011,Technology,East,153.81,-10.93,3
+CA-1012,Furniture,South,16.9,126.71,3
+CA-1013,Technology,Central,107.43,-31.97,3
+CA-1014,Office Supplies,Central,358.56,61.92,4
+CA-1015,Furniture,West,397.19,-99.87,7
+CA-1016,Office Supplies,East,306.92,-11.86,4
+CA-1017,Office Supplies,South,463.89,-23.8,9
+CA-1018,Office Supplies,West,329.03,-58.84,1
+CA-1019,Office Supplies,South,458.33,33.52,8
+CA-1020,Furniture,South,426.52,21.21,7
+CA-1021,Furniture,West,230.23,73.11,2
+CA-1022,Office Supplies,West,56.75,-32.65,8
+CA-1023,Office Supplies,West,191.7,-38.97,1
+CA-1024,Furniture,West,337.73,-57.93,9
+CA-1025,Furniture,West,336.3,-45.31,9
+CA-1026,Furniture,South,299.74,39.53,2
+CA-1027,Technology,West,144.61,0.96,7
+CA-1028,Technology,East,285.01,-83.78,3
+CA-1029,Technology,Central,197.63,-36.52,7
+CA-1030,Office Supplies,West,486.14,-38.28,9
+CA-1031,Technology,West,425.97,74.08,4
+CA-1032,Office Supplies,South,363.65,78.07,1
+CA-1033,Office Supplies,West,125.63,-62.98,2
+CA-1034,Technology,West,135.47,149.44,1
+CA-1035,Office Supplies,West,29.81,-33.3,5
+CA-1036,Technology,South,358.22,144.15,5
+CA-1037,Technology,West,64.34,2.76,7
+CA-1038,Furniture,Central,225.27,-91.74,9
+CA-1039,Technology,South,108.84,-13.73,9
+CA-1040,Furniture,Central,448.92,58.59,3
+CA-1041,Technology,South,242.93,70.18,3
+CA-1042,Technology,West,286.01,32.73,3
+CA-1043,Furniture,Central,350.8,11.95,4
+CA-1044,Furniture,South,78.27,38.22,8
+CA-1045,Technology,East,306.16,48.17,6
+CA-1046,Office Supplies,West,274.52,-79.79,8
+CA-1047,Furniture,South,109.5,-7.59,1
+CA-1048,Office Supplies,East,472.0,-39.46,8
+CA-1049,Office Supplies,South,303.44,100.78,4
